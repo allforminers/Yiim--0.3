@@ -1,16 +1,10 @@
-# Yiimp Install Scrypt (update 2022-06-14) v0.3
+# Yii 2022-06-14) v0.3
 ***********************************************
-<a href="https://discord.gg/GVZ4tchkKc"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
-
-
 
 
 
 ###
 
-## Install script for yiimp on Ubuntu Server 16.04 / 18.04
-
-Use this script on fresh install ubuntu Server 16.04 / 18.04. ``` No other version is currently supported. ``` This install script will get you 95% ready to go with yiimp. There are a few things you need to do after the main install is finished.
 
 ## First of all you need to create a new user i use pool, and upgrade the system.
 
@@ -93,14 +87,3 @@ sudo nano /var/web/yaamp/modules/site/SiteController.php
 
 *****************************************************************************
 
-While I did add some server security to the script, it is every server owners responsibility to fully secure their own servers. After the installation you will still need to customize your serverconfig.php file to your liking, add your API keys, and build/add your coins to the control panel.
-
-## 🎁 Support
-
-Donations for continued support of this script are welcomed at:
-
-* BTC:  bc1qpnxtg3dvtglrvfllfk3gslt6h5zffkf069nh8r
-* Doge: DCj73fKJbHeDTJx7arz4z7bbknWkSDpD8h
-* LTC:  ltc1qqw7cv4snx9ctmpcf25x26lphqluly4w6m073qw
-- > The ETH adress is the same as binance smart chain and on polygon
-* ETH/BSC/POLYGON:  0x50C7d0BF9714dBEcDc1aa6Ab0E72af8e6Ce3b0aB
