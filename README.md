@@ -8,6 +8,10 @@
 
 ## First of all you need to create a new user i use pool, and upgrade the system.
 
+stratum here cd /home/yiimp-data/yiimp/site/stratum/config
+
+screen bash run.sh sha
+
 Update and upgrade your system.
 ```
 sudo apt-get update && sudo apt-get upgrade -y
